@@ -22,7 +22,9 @@ _____
 
 📈 Product & Marketing Managers analyzing participant behavior, engagement rates, and feature preferences.
 
-🎓 Students & Beginners learning advanced data manipulation with Python and Pandas on real-world business data.📁 Files Included(Acá podés listar los scripts principales, por ejemplo: survey_etl.py, analysis_report.csv, etc.)
+🎓 Students & Beginners learning advanced data manipulation with Python and Pandas on real-world business data.
+
+📁 Files Included ()
 
 _____
 
