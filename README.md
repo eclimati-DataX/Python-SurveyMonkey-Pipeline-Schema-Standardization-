@@ -3,14 +3,26 @@ Python-driven ETL & Analytical Profiling for Survey Data (SurveyMonkey): End-to-
 
 ____
 🚀 Project HighlightsIn this project,
+
 I’ll learn how to:
+
 🧹 Survey Data Handling & Flattening: Demonstrate the ability to ingest complex, multi-level row headers from SurveyMonkey exports and transform them into standardized, analytics-ready tabular structures.
+
 🔎 Python ETL & Data Standardization: Develop automated Python routines to handle common survey data issues, such as missing values, text normalization, categorical variable encoding, and schema validation.
+
 📊 Client-Driven Descriptive Analytics: Extract high-value insights requested for business profiling, including participant completion tracking, question-frequency analysis, and statistical aggregation of top-selected response options.
+
 🌍 Real-World Problem Solving: Demonstrate an analytical mindset for dealing with inconsistent survey structures and open-ended responses, a critical skill for delivering clean data prior to the modeling phase.
+_____
 🎯 Who Should Use This Project?
+
 🧑‍💻 Data Analysts & Scientists building automated pipelines for customer or market research feedback.
+
 📊 Business Intelligence Experts looking to streamline survey ingestion directly into dashboard models.
+
 📈 Product & Marketing Managers analyzing participant behavior, engagement rates, and feature preferences.
+
 🎓 Students & Beginners learning advanced data manipulation with Python and Pandas on real-world business data.📁 Files Included(Acá podés listar los scripts principales, por ejemplo: survey_etl.py, analysis_report.csv, etc.)
+
+
 👩‍💻 Created by Javier Marquez
